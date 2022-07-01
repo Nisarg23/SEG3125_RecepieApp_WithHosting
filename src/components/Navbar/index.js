@@ -17,27 +17,26 @@ const Navbar = () => {
         </NavLink>
         <Bars />
         <NavMenu>
-          <NavLink to='/about' activeStyle>
-            About
+          <NavLink to='/home' activeStyle>
+            Home
           </NavLink>
-          <NavLink to='/services' activeStyle>
-            Services
+          <NavLink to='/my-recepies' activeStyle>
+            My Recepies
           </NavLink>
-          <NavLink to='/contact-us' activeStyle>
-            Contact Us
-          </NavLink>
-          <NavLink to='/sign-up' activeStyle>
-            Sign Up
+          <NavLink to='/browse' activeStyle>
+            Browse
           </NavLink>
           {/* Second Nav */}
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
         <NavBtn>
-          <NavBtnLink to='/signin'>Sign In</NavBtnLink>
+          <NavBtnLink to='/login'>Login</NavBtnLink>
         </NavBtn>
       </Nav>
     </>
   );
 };
+
+
 
 export default Navbar;
