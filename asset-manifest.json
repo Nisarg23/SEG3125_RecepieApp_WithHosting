@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SEG3125_RecepieApp_WithHosting/static/css/main.f947e3fd.chunk.css",
+    "main.js": "/SEG3125_RecepieApp_WithHosting/static/js/main.0cdfe328.chunk.js",
+    "main.js.map": "/SEG3125_RecepieApp_WithHosting/static/js/main.0cdfe328.chunk.js.map",
+    "runtime-main.js": "/SEG3125_RecepieApp_WithHosting/static/js/runtime-main.3baa5aa9.js",
+    "runtime-main.js.map": "/SEG3125_RecepieApp_WithHosting/static/js/runtime-main.3baa5aa9.js.map",
+    "static/js/2.22a4cc2b.chunk.js": "/SEG3125_RecepieApp_WithHosting/static/js/2.22a4cc2b.chunk.js",
+    "static/js/2.22a4cc2b.chunk.js.map": "/SEG3125_RecepieApp_WithHosting/static/js/2.22a4cc2b.chunk.js.map",
+    "index.html": "/SEG3125_RecepieApp_WithHosting/index.html",
+    "precache-manifest.2c34e477975f42444fd70ce44fbdc2a2.js": "/SEG3125_RecepieApp_WithHosting/precache-manifest.2c34e477975f42444fd70ce44fbdc2a2.js",
+    "service-worker.js": "/SEG3125_RecepieApp_WithHosting/service-worker.js",
+    "static/css/main.f947e3fd.chunk.css.map": "/SEG3125_RecepieApp_WithHosting/static/css/main.f947e3fd.chunk.css.map",
+    "static/js/2.22a4cc2b.chunk.js.LICENSE.txt": "/SEG3125_RecepieApp_WithHosting/static/js/2.22a4cc2b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SEG3125_RecepieApp_WithHosting/static/media/logo.1185e868.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3baa5aa9.js",
+    "static/js/2.22a4cc2b.chunk.js",
+    "static/css/main.f947e3fd.chunk.css",
+    "static/js/main.0cdfe328.chunk.js"
+  ]
+}
